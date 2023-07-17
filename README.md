@@ -1,4 +1,4 @@
-# trello-clone
+# Ashrut-Trello-Replica
 
 A Trello Project developed by Ashrut Panchal using Vuejs and Typescript.
 
